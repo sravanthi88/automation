@@ -4,4 +4,4 @@ if hungry == "yes"
     print("newchange1")
     print("newchange2")
 else
-    print("drink")
+    print("drink and sleep")
