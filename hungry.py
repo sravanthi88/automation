@@ -1,5 +1,5 @@
 hungry = "yes"
 if hungry == "yes"
-    print("eat")
+    print("eat and enjoy")
 else
     print("drink")
